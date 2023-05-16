@@ -1,0 +1,113 @@
+body{
+    background-color: whitesmoke;
+
+}
+.text-block-1{
+    width: 800px;
+    margin: 100px auto;
+}
+.text-block-2{
+    width: 800px;
+    margin: 100px auto;
+}
+.text-block-item1{
+    background-color: white;
+    width: 20%;
+    height: 170px;
+    border: 5px solid black;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    margin: 0 13px;
+
+
+
+
+}
+.text-block-item2{
+    background-color: white;
+    width: 20%;
+    height: 170px;
+    border: 5px dashed black;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    margin: 0 13px;
+}
+.text-block-item3{
+
+    background-color: white;
+    width: 20%;
+    height: 170px;
+    border: 5px dotted black;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    margin: 0 13px;
+}
+.text-block-item4{
+
+    background-color: white;
+    width: 20%;
+    height: 170px;
+    border: 5px outset grey;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    margin: 0 13px;
+}
+.text-block-item5{
+
+    background-color: white;
+    width: 20%;
+    height: 170px;
+    border: 5px inset grey;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    margin: 0 13px;
+}
+.text-block-item6{
+
+    background-color: white;
+    width: 20%;
+    height: 170px;
+    border: 5px groove grey;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    margin: 0 13px;
+
+}
+.text-block-item8{
+    background-color: white;
+    width: 20%;
+    height: 170px;
+    border: 5px double grey;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    margin: 0 13px;
+
+}
+.text-block-item9{
+    background-color: white;
+    width: 20%;
+    height: 170px;
+    border: 5px ridge grey;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    margin: 0 13px;
+}
+.clear{
+    clear: both;
+}

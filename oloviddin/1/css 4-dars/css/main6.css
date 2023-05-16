@@ -1,0 +1,47 @@
+.text-block{
+    width:  1200px ;
+    margin: 100px auto;
+}
+.text-block-item1{
+    background-color:blanchedalmond ;
+    width: 10%;
+    text-align: center;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    float: left;
+    margin: 20px;
+    border: 2px solid black;
+    border-radius: 15px;
+    color: coral;
+}
+h1{
+    margin-left: 200px;
+    color: darkgreen;
+}
+.text-block-item2{
+    background-color: pink;
+    width: 10%;
+    text-align: center;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    float: left;
+    margin: 20px;
+    border: 2px solid black;
+    border-radius: 15px;
+    color: coral;
+}
+.text-block-item3{
+    background-color: lightgreen;
+    width: 10%;
+    text-align: center;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    float: left;
+    margin: 20px;
+    border: 2px solid black;
+    border-radius: 15px;
+    color: coral;
+}
+.clear{
+    clear: both;
+}
